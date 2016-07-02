@@ -1,0 +1,1 @@
+CONFIG="-n --file=/etc/pulse/arm_msm8998_xiaomi-sagit.pa"
